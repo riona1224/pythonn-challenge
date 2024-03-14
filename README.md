@@ -33,7 +33,7 @@ contents of repo include:
 
 used this syntax to read the csv files as well as open them with the path
 - https://www.w3schools.com/python/python_file_open.asp
-- 
+
 - https://stackoverflow.com/questions/25023233/how-to-save-python-screen-output-to-a-text-file used 5th responce
 
 - used the gitlab slides (lessons 2,3)
