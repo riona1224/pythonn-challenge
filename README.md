@@ -1,7 +1,7 @@
 # PythonChallenge Module3
 contents of repo include:
 
-1) Pybank and Pyroll folders with subfolders containing the csv used as well as the text file
+1) Pybank and Pyroll folders with subfolders containing the csv used as well as the text file results
 2)  2 created python scripts to run the Pybank and Pyroll csv files 
 
 
@@ -16,6 +16,14 @@ contents of repo include:
 - The greatest increase in profits (date and amount) over the entire period
 
 - The greatest decrease in profits (date and amount) over the entire period
+
+
+# references used 
+
+used this syntax to read the csv files as well as open them with the path
+- https://www.w3schools.com/python/python_file_open.asp![Uploading image.png…]()
+  
+
 
 
 * i encountered some merging/conflict problems when pushing the resources and analysis folders through the gitbash terminal, so i added them manually via github 
