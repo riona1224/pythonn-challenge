@@ -32,9 +32,13 @@ contents of repo include:
 # references used 
 
 used this syntax to read the csv files as well as open them with the path
-- https://www.w3schools.com/python/python_file_open.asp![Uploading image.png…]()
-  
+- https://www.w3schools.com/python/python_file_open.asp
+- 
+- https://stackoverflow.com/questions/25023233/how-to-save-python-screen-output-to-a-text-file used 5th responce
+
+- used the gitlab slides (lessons 2,3)
 
 
+note:
 
-* i encountered some merging/conflict problems when pushing the resources and analysis folders through the gitbash terminal, so i added them manually via github 
+ i encountered some merging/conflict problems when pushing the resources and analysis folders through the gitbash terminal, so i added them manually via github 
